@@ -1,0 +1,1 @@
+{"name": "Watch Flipper", "short_name": "WatchFlipper", "start_url": "./index.html", "display": "standalone", "background_color": "#0a0f1a", "theme_color": "#0a0f1a", "icons": [{"src": "icons/wf-192.png", "sizes": "192x192", "type": "image/png"}, {"src": "icons/wf-512.png", "sizes": "512x512", "type": "image/png"}]}
